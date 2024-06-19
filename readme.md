@@ -2,5 +2,5 @@ Call Back hell Task
 
 Displaying 10 to 1 and then printing "Happy Independence Day"
 
-Using Set timeout and call back function
+Using Set timeout
 
