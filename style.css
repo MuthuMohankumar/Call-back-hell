@@ -1,0 +1,12 @@
+#span{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    align-items: center;
+    
+    
+}
+body{
+    background-color: aqua;
+   
+}

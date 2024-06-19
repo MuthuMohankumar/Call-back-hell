@@ -26,6 +26,7 @@ setTimeout(()=>{
                                         document.getElementById("span").innerHTML="1";
                                         setTimeout(()=>{
                                             document.getElementById("span").innerHTML="Happy Independence Day";
+                                            span.setAttribute("style", "background-color: green;color: white")
                                         },1000)
                                     },1000);
                                 },1000);
